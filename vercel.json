@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/mlb_agency_group_sales_analysis.html"
+    }
+  ]
+}
